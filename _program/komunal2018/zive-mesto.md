@@ -1,7 +1,7 @@
 ---
 uid: zive-mesto
 garant: Pavel Štěpánek
-title: Živé město - Smart City
+title: Mrtvé město - Smart City
 img: ismart-city.svg
 perex: Smart City pro nás není město nabité nepotřebnými technologiemi z dotačních peněz, ale město, které díky technologiím a chytrému přístupu funguje lépe.
 order: 1
