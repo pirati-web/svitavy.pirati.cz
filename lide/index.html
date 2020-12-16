@@ -22,13 +22,25 @@ img: brand/logo.svg
                                     </div>
                                 </li>
                             </ul>
+			    <!--
                             <ul class="c-simple-accordion" data-accordion="" data-options="allowAllClosed: true">
                                 <li class="c-simple-accordion-item" data-accordion-item="">
-                                    <a href="#senat" class="c-simple-accordion-title">Senátorští kandidáti obvodu 44 s podporou Pirátů</a>
+                                    <a href="#senat" class="c-simple-accordion-title">Senátorští kandidáti obvodu 50 s podporou Pirátů</a>
                                     <div id="senat" class="c-simple-accordion-content" data-tab-content="">
-                                        {% assign team = site.people | where_exp:"item","item.categories contains 'senat-chrudim'" | sort:"ordsenat" %}
+                                        {% assign team = site.people | where_exp:"item","item.categories contains 'senat-svitavsko'" | sort:"ordsenat" %}
                                         {% include people/list-2col.html param=team %}
 					{% if page.team == null %}<br>Zatím žádný zástupce{% endif %}
+                                    </div>
+                                </li>
+                            </ul>
+			    -->
+                            <ul class="c-simple-accordion" data-accordion="" data-options="allowAllClosed: true">
+                                <li class="c-simple-accordion-item is-active" data-accordion-item="">
+                                    <a href="#senat" class="c-simple-accordion-title">Předsednictvo místního sdružení</a>
+                                    <div id="senat" class="c-simple-accordion-content" data-tab-content="">
+                                        {% assign team = site.people | where_exp:"item","item.categories contains 'pms'" | sort:"ordpms" %}
+                                        {% include people/list-2col.html param=team %}
+					{% if team == null %}<br>Zatím žádný zástupce{% endif %}
                                     </div>
                                 </li>
                             </ul>
@@ -36,7 +48,7 @@ img: brand/logo.svg
                                 <li class="c-simple-accordion-item is-active" data-accordion-item="">
                                     <a href="#senat" class="c-simple-accordion-title">Náš tým</a>
                                     <div id="senat" class="c-simple-accordion-content" data-tab-content="">
-                                        {% assign team = site.people | where_exp:"item","item.categories contains 'pak'" | sort:"ordpak" %}
+                                        {% assign team = site.people | where_exp:"item","item.categories contains 'ms'" | sort:"ordms" %}
                                         {% include people/list-2col.html param=team %}
 					{% if team == null %}<br>Zatím žádný zástupce{% endif %}
                                     </div>

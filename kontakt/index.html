@@ -26,7 +26,7 @@ img: miscellaneous/residence.png
                             <span class="cell-text">emailová adresa:</span>
                           </td>
                           <td>
-                            <a href="mailto:pardubicko@pirati.cz">pardubicko@pirati.cz</a> (elektronická pošta)
+                            <a href="mailto:pardubickykraj@pirati.cz">pardubickykraj@pirati.cz</a> (elektronická pošta)
                             <br>
                             <a href="https://redmine.pirati.cz/projects/pardubicky-kraj">podatelna</a> (systém redmine)
 			  </td>
@@ -45,6 +45,15 @@ img: miscellaneous/residence.png
                           </td>
                           <td>
                             <a href="https://www.pirati.cz">www.pirati.cz</a>
+                          </td>
+                        </tr>
+                        <tr>
+                          <td class="cell-description">
+                            <i class="cell-icon fa fa-desktop"></i>
+                            <span class="cell-text">Krajský web</span>
+                          </td>
+                          <td>
+                            <a href="https://pardubicky.pirati.cz">pardubicky.pirati.cz</a>
                           </td>
                         </tr>
                         <tr>
@@ -119,12 +128,8 @@ img: miscellaneous/residence.png
         <div class="o-section-block">
           <div class="c-BasicPage">
             <div class="c-BasicPage-content">
-              <h2>Kontakt pro média</h2>
-                {% assign team = site.people | where_exp:"item","item.uid contains 'jiri.jansa'" %}
-                {% include people/list-2col.html param=team %}
-              <br>
-              <h2>Kontakt pro veřejnost</h2>
-                {% assign team = site.people | where_exp:"item","item.uid contains 'pavel.stepanek'" | sort:"ordkontakty" %}
+              <h2>Kontaktní osoba</h2>
+                {% assign team = site.people | where_exp:"item","item.uid contains 'jitka.bidlova'" | sort:"ordkontakty" %}
                 {% include people/list-2col.html param=team %}
             </div>
           </div>

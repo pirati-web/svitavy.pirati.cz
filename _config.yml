@@ -13,8 +13,8 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Místní sdružení Svitavsko - Piráti
-email: pardubicko@pirati.cz
+title: Pirati Svitavsko
+email: pardubickykraj@pirati.cz
 description: # this means to ignore newlines until "baseurl:"
             Prosazujeme fungující moderní politiku založenou na využití technologií 21. století pro otevřenou demokratickou společnost.
 baseurl: "" # the subpath of your site, e.g. /blog
@@ -24,7 +24,7 @@ url: "http://svitavsko.pirati.cz" # the base hostname & protocol for your site, 
 
 # Build settings
 markdown: kramdown
-gems:
+plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-feed
@@ -53,7 +53,7 @@ collections:
     permalink: /lide/:path/
   program:
     output: true
-    permalink: /volby-2018/program/:title/
+    permalink: /volby-2020/program/:title/
   teams:
     output: true
     permalink: /pripoj-se/:title/
@@ -93,8 +93,8 @@ defaults:   # defaults values for collection scope
       layout: "kandidatka"
 
 calendar: https://calendar.google.com/calendar/embed?showTitle=0&amp;showNav=0&amp;showDate=0&amp;showPrint=0&amp;showTabs=0&amp;showCalendars=0&amp;showTz=0&amp;mode=AGENDA&amp;height=500&amp;wkst=2&amp;hl=cs&amp;bgcolor=%23FFFFFF&amp;src=kddvdvu3adcjef2kro4j6mm838%40group.calendar.google.com&amp;color=%232952A3&amp;ctz=Europe%2FPrague
-fb_name: Piráti Chrudim
-fb: https://www.facebook.com/CeskaPiratskaStranaChrudim
+fb_name: Piráti Svitavsko
+fb: https://www.facebook.com/%C4%8Cesk%C3%A1-Pir%C3%A1tsk%C3%A1-Strana-Svitavsko-148017056024500
 tw: PiratskaStrana
 instagramm: https://www.instagram.com/pirati.cz/
 
