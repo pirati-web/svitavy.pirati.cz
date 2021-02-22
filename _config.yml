@@ -92,7 +92,10 @@ defaults:   # defaults values for collection scope
     values:
       layout: "kandidatka"
 
-calendar: https://calendar.google.com/calendar/embed?showTitle=0&amp;showNav=0&amp;showDate=0&amp;showPrint=0&amp;showTabs=0&amp;showCalendars=0&amp;showTz=0&amp;mode=AGENDA&amp;height=500&amp;wkst=2&amp;hl=cs&amp;bgcolor=%23FFFFFF&amp;src=kddvdvu3adcjef2kro4j6mm838%40group.calendar.google.com&amp;color=%232952A3&amp;ctz=Europe%2FPrague
+calendar:
+  bar_title: Krajský kalendář
+  bar: https://calendar.google.com/calendar/embed?showTitle=0&amp;showNav=0&amp;showDate=0&amp;showPrint=0&amp;showTabs=0&amp;showCalendars=0&amp;showTz=0&amp;mode=AGENDA&amp;height=500&amp;wkst=2&amp;hl=cs&amp;bgcolor=%23FFFFFF&amp;src=7r673rlh255oforhv3oeb2l0g0@group.calendar.google.com&ctz=Europe%2FPrague&amp;color=%232952A3
+
 fb_name: Piráti Svitavsko
 fb: https://www.facebook.com/%C4%8Cesk%C3%A1-Pir%C3%A1tsk%C3%A1-Strana-Svitavsko-148017056024500
 tw: PiratskaStrana
