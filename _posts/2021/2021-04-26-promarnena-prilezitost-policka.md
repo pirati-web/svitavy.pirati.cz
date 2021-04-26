@@ -6,7 +6,7 @@ date: 2021-04-26T00:00:00+01:00
 tags: 
       - Polička
 author: Jitka Bidlová
-image: assets/img/posts/2021/new_ponas.png
+image: assets/img/posts/new_ponas.png
 ---
 
 
@@ -19,7 +19,7 @@ Vzhledem k tomu, že v zastupitelstvu bohužel převážil názor, že by se jed
 Vzhledem k tomu, že město nabídku odmítlo, rozhodl se současný majitel prodat areál developerské firmě. Ta zde vybuduje Retail park podobný těm, jaké známe z okrajů jiných měst. Stavět se bude úsporně, tak aby výsledek byl co nejjednodušší. Osází se to stromky a keříky. Možnosti města ovlivnit budoucí podobu areálu jsou dosti limitované.
 
 
-![tělocvična](/assets/img/posts/2021/projekt_ponas.png)
+![projekt](/assets/img/posts/projekt_ponas.png)
 
 
 Mimo již dříve avizovaného supermarketu Billa by zde měl být prostor i pro prodejnu PEPCO, tábák, drogerii, chovatelské potřeby a elektro.
