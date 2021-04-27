@@ -6,7 +6,7 @@ date: 2021-04-27T00:00:00+01:00
 tags: 
       - Svitavy
 author: Libuše Vévodová
-image: assets/img/posts/2021/svitavy.png
+image: assets/img/posts/svitavy.png
 ---
 
 
