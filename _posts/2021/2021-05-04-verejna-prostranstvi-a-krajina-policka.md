@@ -6,7 +6,7 @@ date: 2021-05-04T00:00:00+01:00
 tags: 
       - Polička
 author: Jitka Bidlová
-image: assets/img/posts/2021/jitka.jpg
+image: assets/img/posts/jitka.jpg
 ---
 
 
