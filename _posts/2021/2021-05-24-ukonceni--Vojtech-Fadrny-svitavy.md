@@ -1,7 +1,7 @@
 ---
 layout: post
 category: CLANKY
-title: Nahlédnutí do Facebooku
+title: Svitavští Piráti a nezávislí ukončují spolupráci s Vojtěchem Fadrným
 date: 2021-05-24T00:00:00+01:00
 tags: 
       - Svitavy
