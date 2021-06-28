@@ -7,7 +7,7 @@ category:
 - ms
 img: people/karsten-sachs-2018.jpg           # 165 x 220
 ord_predsednictvo: 5
-description: 4. místopředseda KS Pardubický kraj
+description: 3. místopředseda KS Pardubický kraj
 ordpak:
 ordms: 1
 mail:
