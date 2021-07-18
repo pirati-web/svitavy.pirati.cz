@@ -15,7 +15,7 @@ image: assets/img/posts/cesta_k_parlamentu.jpg
 Ale někdy přichází chvíle vrátit se ke kořenům a jít pěšky, aby se zbrzdil čas a člověk měl možnost pomalu a zblízka poznat zemi, promyslet, co nám doba přináší a jaká opravdu je. Na mě tato touha přišla s jarem. Dlouhá bílá zima byla poznamenaná covidovými restrikcemi a na člověka doléhaly smutné zprávy od blízkých i vzdálených rodin. Bylo toho nějak moc.
 Odjet si nakrátko oddechnout za hranice (nejen všedních dní) nešlo a na dlouhé cesty vlastně ani nebylo pomyšlení. A tak přišel návrat k tomu nejpřirozenějšímu - k chůzi. K pomalému přesunu městy a krajinou tak, aby je měl člověk čas zažít.
 
-![projekt](/assets/img/posts/cesta_k_parlamentu2.jpg)
+![projekt](/assets/img/posts/cesta_k_parlamentu4.jpg)
 
 ![projekt](/assets/img/posts/cesta_k_parlamentu3.jpg)
 
