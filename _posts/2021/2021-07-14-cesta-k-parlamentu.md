@@ -34,7 +34,3 @@ Děkuji všem, co se přidali, aby mě podpořili a nebylo mi smutno a pokud má
 >#### Profil Jitky Bidlové naleznete [ZDE](https://www.piratiastarostove.cz/kandidati/ing-arch-jitka-bidlova-phd/)
 >
 >*Na začátku října se Jitka opět chystá vyjít. O cestě budeme informovat!*
-
-![projekt](/assets/img/posts/cesta_k_parlamentu6.jpg)
-
-![projekt](/assets/img/posts/cesta_k_parlamentu7.jpg)
